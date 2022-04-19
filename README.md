@@ -139,7 +139,7 @@ Another challenge was getting a handle on the conditional rendering of the revie
 2. Known error 
 There is no error handling in the register page, if the user does not have correct credentials, it will not warn them and it seems like the button is not functioning. 
 
-#Wins
+# Wins
 1. It was a great experience being able to work as a group and getting the fundamental skills of planning and organising, planning a meet up time and each having a task to complete and work together on if the task was proving too difficult for one person alone.
 2. I was happy at how the website turned out having certain aspects working like it would in a traditional booking website such as the destination information and the functionality to review past bookings. 
 
