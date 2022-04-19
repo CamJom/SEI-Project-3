@@ -1,5 +1,5 @@
 {
-  "name": "cosmic-stays-backend",
+  "name": "test",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -18,5 +18,7 @@
     "seed": "node seeds/seeds.js",
     "start": "node index.js",
     "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
-  }
+  },
+  "repository": "git@github.com:CamJom/SEI-Project-3-SpaceBook.git",
+  "author": "Jomari Camangon <jomari60@hotmail.co.uk>"
 }
